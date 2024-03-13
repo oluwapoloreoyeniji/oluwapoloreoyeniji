@@ -4,6 +4,7 @@
 - ☁️ Talk to me about Abstraction, Data Structures and Algorithms.
 - 📫 How to reach me: polore.oyeniji@gmail.com
 
+<figure><embed src="https://wakatime.com/share/@oluwapoloreoyeniji/31c318e3-299a-4d24-a43c-0bca34142888.svg"></embed></figure>
 
 ## Projects
 - [CodeCheckID-DocGenerator](https://github.com/poloreoyeniji/CodeCheckID-DocGenerator)
